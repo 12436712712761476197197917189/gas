@@ -1,5 +1,5 @@
 local Framework = loadstring(game:HttpGet("https://pastebinp.com/raw/KP1dUHFg"))()
-local Watermark = Framework:CreateWatermark("DOX | {game} | {fps}")
+local Watermark = Framework:CreateWatermark("TypeHub | {game} | {fps}")
 local WriteLine = Framework:CreateWindow("GAS STATION", Vector2.new(492, 588), Enum.KeyCode.RightControl)
 
 
